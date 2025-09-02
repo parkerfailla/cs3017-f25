@@ -13,7 +13,7 @@ I enjoy doing a variety of things in my free time like working out, traveling, a
 2. Açaí Bowl
 3. Salt and Vinegar Chips
 ## Where to Find Me
-[My GitHub Profile] (https://github.com/parkerfailla/cs3017-f25/new/main)
-[My GitHub Pages Site] (
+[My GitHub Profile] (https://github.com/parkerfailla)
+[My GitHub Pages Site] (https://parkerfailla.github.io/cs3017-f25)
 ##Fun Image
 ![
