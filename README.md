@@ -1,7 +1,7 @@
 # cs3017-f25
 Basic Web Page for CS-3017
 
-#About this class
+# About this class
 This class is about designing a good website.
 
 This will now be a secound paragraph on the site.
