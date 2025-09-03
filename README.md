@@ -33,6 +33,7 @@ We can add ephasis to tect with *asterisks* to create italics or **bold** text o
      1. This is the first item in a sublist
 
 ##Links to other places
+
 [Google Search](https://google.com)
 
 [Class 3](class3) 
