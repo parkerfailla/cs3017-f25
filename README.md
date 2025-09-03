@@ -38,4 +38,4 @@ We can add ephasis to tect with *asterisks* to create italics or **bold** text o
 
 [Class 3](class3) 
 
-[subsection example].(#subsection-example)
+[subsection example](#subsection-example)
